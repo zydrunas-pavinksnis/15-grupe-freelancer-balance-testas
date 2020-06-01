@@ -20,9 +20,12 @@ function createTable(params) {
     const DOMtable-content = document.querySelector('.table-content')
 
     HTML += `Petras`;
+    HTML += `Jonas`;
+
 
     // nervus i konservus
 
     DOMtable.innerHTML = HTML;
+
     return;
-}
+};
