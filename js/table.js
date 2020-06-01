@@ -1,6 +1,6 @@
 "use strict";
 
-const months [
+const months = [
     { month: 1, name: `Sausis` },
     { month: 2, name: `Vasaris` },
     { month: 3, name: `Kovas` },
@@ -14,3 +14,13 @@ const months [
     { month: 11, name: `Lapkritis` },
     { month: 12, name: `Gruodis` },
 ];
+
+function createTable(params) {
+    let HTML = ``;
+    const DOMtable-content = document.querySelector('.table-content')
+
+    HTML += `Petras`;
+
+    DOMtable.innerHTML = HTML;
+    return;
+}
