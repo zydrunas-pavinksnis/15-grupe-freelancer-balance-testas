@@ -21,6 +21,8 @@ function createTable(params) {
 
     HTML += `Petras`;
 
+    // nervus i konservus
+
     DOMtable.innerHTML = HTML;
     return;
 }
